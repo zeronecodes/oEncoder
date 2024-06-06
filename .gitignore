@@ -1,0 +1,25 @@
+# Compiled object files
+*.o
+
+# Compiled binaries
+*.elf
+*.hex
+
+# Assembly listings
+*.asm
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Build directories
+build/
